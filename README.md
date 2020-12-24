@@ -9,7 +9,7 @@ https://github.com/NSchrading/intro-spacy-nlp/blob/master/subject_object_extract
 
 
 
-#Book to be bought
+#Books to be bought
 
 1.https://www.amazon.in/Indian-Sign-Language-Analysis-Grammar/dp/1944838082
 2.https://www.amazon.in/Language-Machine-Translation-Lexical-Acquisition/dp/3659349062
