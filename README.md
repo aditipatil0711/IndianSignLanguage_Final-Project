@@ -9,6 +9,13 @@ https://github.com/NSchrading/intro-spacy-nlp/blob/master/subject_object_extract
 
 
 
+#conferences:
+https://slrtp.com/
+
+
+
+
+
 #Books to be bought
 
 1.https://www.amazon.in/Indian-Sign-Language-Analysis-Grammar/dp/1944838082
