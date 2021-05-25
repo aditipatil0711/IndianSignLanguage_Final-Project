@@ -1,0 +1,17 @@
+I want food <eos>
+I came <eos>
+I stay in pune <eos>
+What is your name? <eos>
+Where is the bank? <eos>
+I did not understand <eos>
+Father is a clerk <eos>
+What is your name? <eos>
+We will go together tomorrow <eos>
+What is todays date? <eos>
+I like pink color <eos>
+a child eats an apple <eos>
+this is a flower <eos>
+it is 9 in the morning <eos>
+
+
+
