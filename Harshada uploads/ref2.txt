@@ -1,0 +1,24 @@
+I want food 
+I want the food <eos>
+I came <eos>
+I stay in pune 
+I stay in the pune <eos>
+What is your name? <eos>
+Where is the bank? <eos>
+I did not understand 
+I do not understand <eos>
+Father is a clerk 
+My father is clerk <eos>
+What is your name? <eos>
+We will go together tomorrow <eos>
+What is todays date? <eos>
+I like pink color <eos>
+a child eats an apple 
+a child eats apple <eos>
+this is a flower 
+this is flower <eos>
+it is 9 in the morning 
+it is 9 in morning <eos>
+
+
+
