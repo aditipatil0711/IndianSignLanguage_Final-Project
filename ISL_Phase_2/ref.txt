@@ -17,3 +17,4 @@ Wait, I am thinking. <eos>
 Please call ambulance. <eos>
 No smoking please. <eos>
 Will he go to school? <eos>
+I haven‘t had tea yet. <eos>
