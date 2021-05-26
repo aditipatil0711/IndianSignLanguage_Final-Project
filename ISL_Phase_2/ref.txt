@@ -1,0 +1,19 @@
+Good morning.<eos>
+Where is the bank? <eos>
+Look at me singing! <eos>
+It is 9 in the morning. <eos>
+I want food.
+I am hungry. <eos>
+I am understanding. <eos>
+I understood. <eos>
+I am not understanding. <eos>
+Where are you going today? <eos>
+This iphone costs seventy thousand. <eos>
+I am really woried because of rain. <eos>
+Family does not help me. <eos>
+I am sorry. <eos>
+I am engineer. <eos>
+Wait, I am thinking. <eos>
+Please call ambulance. <eos>
+No smoking please. <eos>
+Will he go to school? <eos>
