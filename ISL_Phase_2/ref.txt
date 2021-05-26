@@ -1,20 +1,20 @@
-Good morning.<eos>
-Where is the bank? <eos>
-Look at me singing! <eos>
-It is 9 in the morning. <eos>
+Good morning
+Where is the bank? 
+Look at me singing!
+It is 9 in the morning.
 I want food.
-I am hungry. <eos>
-I am understanding. <eos>
-I understood. <eos>
-I am not understanding. <eos>
-Where are you going today? <eos>
-This iphone costs seventy thousand. <eos>
-I am really woried because of rain. <eos>
-Family does not help me. <eos>
-I am sorry. <eos>
-I am engineer. <eos>
-Wait, I am thinking. <eos>
-Please call ambulance. <eos>
-No smoking please. <eos>
-Will he go to school? <eos>
-I haven‘t had tea yet. <eos>
+I am hungry.
+I am understanding.
+I understood.
+I am not understanding.
+where are you going today?
+This iphone costs seventy thousand.
+I am really woried because of rain.
+Family does not help me.
+I am sorry.
+I am engineer.
+Wait, I am thinking.
+Please call ambulance.
+No smoking please.
+Will he go to school?
+I haven‘t had tea yet.
