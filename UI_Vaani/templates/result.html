@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<style>
+body{
+	font:15px/1.5 Arial, Helvetica,sans-serif;
+	padding: 0px;
+	background-image: url(https://wallpaperaccess.com/full/1159285.jpg);
+	width: fit;
+	height: fit;
+	background-color: #4d4dff;
+	background-repeat: repeat;
+}
+row{
+    width:100%;
+	text-align:center;
+}
+
+
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 1px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.header{
+   
+
+}
+.button:hover {
+  background-color: grey;
+  color: black;
+}
+</style>
+<head>
+	<title>Vaani</title>
+</head>
+<body >
+	
+	<div class="header" >
+	<center>
+	<img src="{{url_for('static', filename='Vaani_title.png')}}"  />
+	</center>
+	</div>
+	
+	<div class="row" >
+	<form action="{{ url_for('home')}}">
+    <center>
+		<p style="font-family:'Monospace', Monaco; font-size:24px; font-weight: bold">Enter text</p>
+		<textarea name="message" rows="3" cols="40" style="font-size:18px">
+		{{message}}
+		</textarea>
+		
+		
+		
+		<p style="font-family:'Monospace', Monaco; font-size:24px; font-weight: bolder">
+		Translation for your text is <p>
+        <textarea name="result" rows="3" cols="40" style="font-size:18px" >
+            {{result}}
+		</textarea>
+		<br/>
+        <input type="submit" class="button" value="Reset">
+	</center>	
+	</form>
+	</div>
+	
+
+</body>
+</html>
